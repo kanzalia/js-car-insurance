@@ -21,10 +21,10 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="how-to-receive-euro-truck-simulator-2-mobile.html"}
-if(x=="2"){xxx="download-euro-truck-simulator-2-android.html"}
-if(x=="3"){xxx="euro-truck-simulator-2-apk-download-faq.html"}
-if(x=="4"){xxx="ow-to-play-euro-truck-simulator-2-pc-in-android.html"}a_to_ve[i].href="https://ets2apk.kanzalia.com/2021/04/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="how-to-shop-for-car-insurance-quotes.html"}
+if(x=="2"){xxx="top-5-ways-to-lower-your-car-insurance.html"}
+if(x=="3"){xxx="13-new-ideas-how-to-make-your-insurance.html"}
+if(x=="4"){xxx="4-effective-tips-for-saving-on-car-insurance-shop.html"}a_to_ve[i].href="https://ets2apk.kanzalia.com/2022/02/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
